@@ -1,0 +1,16 @@
+type: code
+files:
+- name: process_four_numbers.py
+  visible: true
+  text: |-
+    args = sys.argv
+
+    # further code of the script "process_four_numbers.py"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7988#comment
+status: Failed
+feedback:
+  message: |
+    Failed. Wrong answer
+  time: Sat, 13 Feb 2021 14:56:46 UTC
+record: -1
